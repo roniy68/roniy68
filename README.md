@@ -36,5 +36,5 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roniy68&" alt="roniy68" /></p>
 
 ---
-> ✉️ <a href="mailto:ahmed.hasan.rony@gmail.com">***Email Me***</a> ***or*** **Find Me:*** 🉑 [Ahmed Hasan Rony](www.linkedin.com/in/ahroniy) ✴️
+> ✉️ <a href="mailto:ahmed.hasan.rony@gmail.com">***Email Me***</a> ***or*** **Find Me:*** 🉑 [Ahmed Hasan Rony](https://www.linkedin.com/in/ahroniy) ✴️
 ---
