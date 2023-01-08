@@ -34,3 +34,7 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roniy68&show_icons=true&locale=en" alt="roniy68" /></p>
 <br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roniy68&" alt="roniy68" /></p>
+
+---
+> ✉️ <a href="mailto:ahmed.hasan.rony@gmail.com">***Email Me***</a> ***or*** **Find Me:*** 🉑 [Ahmed Hasan Rony](www.linkedin.com/in/ahroniy) ✴️
+---
