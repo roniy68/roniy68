@@ -17,6 +17,8 @@
 <a href="mailto:ahmed.hasan.rony@gmail.com?subject=Reaching%20Out%20to%20you%20from%20Github" target="blank"><img align="center" src="https://media.giphy.com/media/5NPhdqmyRxn8I/giphy.gif" alt="mail" height="50" width="50" /></a>
 <a href="https://www.github.com/roniy68" target="blank"><img align="center" src="https://media1.giphy.com/avatars/mwooodward/cIe5MvDvX4Vc.gif" alt="github" height="50" width="50" /></a>
 <a href="https://roniy68.github.io" target="blank"><img align="center" src="https://media.giphy.com/media/eNkinmRoeqYhDvU476/giphy.gif" alt="website" height="50" width="50" /></a>
+<a href="src="https://discord.gg/BxKn5uS95b"" target="blank"><img align="center" src="https://media.giphy.com/media/4edx0TGrxhhnnCTgO4/giphy.gif" alt="website" height="50" width="50" /></a>
+
 </p>
 
 
@@ -36,5 +38,8 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roniy68&" alt="roniy68" /></p>
 
 ---
-> ✉️ <a href="mailto:ahmed.hasan.rony@gmail.com">***Email Me***</a> ***or*** **Find Me:*** 🉑 [Ahmed Hasan Rony](https://www.linkedin.com/in/ahroniy) ✴️
+> ✉️ <a href="mailto:ahmed.hasan.rony@gmail.com">***Email Me***</a> ***or*** **Find Me:*** 🉑 [Ahmed Hasan Rony](https://www.linkedin.com/in/ahroniy) ✴️ 
 ---
+# 🖥️Join me On Discord 🖥️
+[![discord](https://media.giphy.com/media/4edx0TGrxhhnnCTgO4/giphy.gif)](https://discord.gg/BxKn5uS95b)
+# 🖥️ ✴️ Thank You For Visiting Me✴️ 🖥️
