@@ -42,4 +42,5 @@
 ---
 # 🖥️Join me On Discord 🖥️
 [![discord](https://media.giphy.com/media/4edx0TGrxhhnnCTgO4/giphy.gif)](https://discord.gg/BxKn5uS95b)
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=628a6ffc0daf&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 # 🖥️ ✴️ Thank You For Visiting Me✴️ 🖥️
