@@ -9,6 +9,14 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roniy68" alt="roniy68" /></a> </p>
 
 <br>
+I am a Fullstack Software Engineer mostly specialized in MERN stack and Ruby on Rails. I am also proficient in TypeScript, NextJs & React Native. I work with Python and System administrator occassionally. 
+
+- 🌍  I'm a Remote Software Developer
+- 🖥️  Visit My website [ahroniy.me](https://www.ahroniy.me)
+- ✉️  You can contact me at **ahmed.hasan.rony@gmail.com**
+- 🚀  I'm currently working on Online Business Platform App
+- 🧠  I'm learning Machine Learning
+- 🤝  I'm open to collaborating on interesting projects
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
