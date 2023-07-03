@@ -9,6 +9,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roniy68" alt="roniy68" /></a> </p>
 
 <br>
+    
 I am a Fullstack Software Engineer mostly specialized in MERN stack and Ruby on Rails. I am also proficient in TypeScript, NextJs & React Native. I work with Python and System administrator occassionally. 
 
 - 🌍  I'm a Remote Software Developer
@@ -17,6 +18,9 @@ I am a Fullstack Software Engineer mostly specialized in MERN stack and Ruby on 
 - 🚀  I'm currently working on Online Business Platform App
 - 🧠  I'm learning Machine Learning
 - 🤝  I'm open to collaborating on interesting projects
+
+<details align="center" >
+  <summary> More About AHRONIY </summary>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -45,12 +49,30 @@ I am a Fullstack Software Engineer mostly specialized in MERN stack and Ruby on 
 <br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roniy68&" alt="roniy68" /></p>
 
----
+<section align="center">  
+
 > ✉️ <a href="mailto:ahmed.hasan.rony@gmail.com">***Email Me***</a> ***or*** **Find Me:*** 🉑 [Ahmed Hasan Rony](https://www.linkedin.com/in/ahroniy) ✴️ 
----
+
+</section>
+
+<section align="center">
+
 # 🖥️Join me On Discord 🖥️
 [![discord](https://media.giphy.com/media/4edx0TGrxhhnnCTgO4/giphy.gif)](https://discord.gg/BxKn5uS95b)
+
+<br/>
+<b> Referral To : </b>
+
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=628a6ffc0daf&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
+</section>
+
+<section align="center">
+
 # 🖥️ ✴️ Thank You For Visiting Me✴️ 🖥️
 
 # ☕ [buymeacoffee](https://www.buymeacoffee.com/ahroniy)
+
+</section>
+
+</details>
