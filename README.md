@@ -16,7 +16,7 @@ I am a Fullstack Software Engineer mostly specialized in MERN stack and Ruby on 
 - 🖥️  Visit My website [ahroniy.me](https://www.ahroniy.me)
 - ✉️  You can contact me at **ahmed.hasan.rony@gmail.com**
 - 🚀  I'm currently working on Online Business Platform Apps
-- 🧠  I'm Volunteering/Creating [OpenSource Projects](./my_Projects.md)
+- 🧠  I'm Volunteering/Creating [OpenSource Projects](./my_projects.md)
 - 🤝  I'm open to collaborating on interesting projects
 
 ## Career Goals: 
