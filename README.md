@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Ahmed Hasan Rony</h1>
-<h3 align="center">A Software Developer and Cyber Security Engineer </h3>
+<h3 align="center">A Full-Stack Software Developer and Cyber Security Engineer </h3>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="200"/>
 </div>
@@ -10,17 +10,24 @@
 
 <br>
     
-I am a Fullstack Software Engineer mostly specialized in MERN stack and Ruby on Rails. I am also proficient in TypeScript, NextJs & React Native. I work with Python and System administrator occassionally. 
+I am a Fullstack Software Engineer mostly specialized in MERN stack and Ruby on Rails. I am also proficient in TypeScript, NextJs & React Native. I work with Python and System administrator occasionally. 
 
 - 🌍  I'm a Remote Software Developer
 - 🖥️  Visit My website [ahroniy.me](https://www.ahroniy.me)
 - ✉️  You can contact me at **ahmed.hasan.rony@gmail.com**
-- 🚀  I'm currently working on Online Business Platform App
+- 🚀  I'm currently working on Online Business Platform Apps
 - 🧠  I'm learning Machine Learning
 - 🤝  I'm open to collaborating on interesting projects
 
+## Career Goals: 
+- ✅ Full Stack Software Engineer | DevOps Engineer | Web Security Engineer
+- ✅ Open Source Contribution
+- ✅ ***Open To Work*** | ***Open To Contribute*** | ***Contact For Volunteer Works***
+
+--- 
+
 <details align="center" >
-  <summary> More About AHRONIY </summary>
+  <summary> <h2>🔥More About AHRONIY🔥</h2> </summary>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -76,3 +83,6 @@ I am a Fullstack Software Engineer mostly specialized in MERN stack and Ruby on 
 </section>
 
 </details>
+
+
+---
