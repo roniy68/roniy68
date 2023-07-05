@@ -14,9 +14,9 @@
 ## Previous Projects 🔽
 
 ### Group:
-- ✅ [Capstone Rails](https://github.com/roniy68/capstone-rails/projects/1)
-- ✅ [SpaceX](https://github.com/users/roniy68/projects/18)
-- ✅ [Catalog-Of-My-Things](https://github.com/roniy68/catalog-of-my-things/projects/1)
+- ✅ [Final Capstone: Ruby On Rails and React Complete Application](https://github.com/roniy68/capstone-rails/projects/1)
+- ✅ [SpaceX : A React Demonstration && Pair Programming](https://github.com/users/roniy68/projects/18)
+- ✅ [Catalog-Of-My-Things: A Ruby Terminal App - Way To Create GEM](https://github.com/roniy68/catalog-of-my-things/projects/1)
 - ✅ Pair Programming with [Alwin](https://github.com/Thoth1111) PR#1: [React Demonstration](https://github.com/roniy68/react-todolist/pull/1)
 - ✅ Learn Testing with [Hien Phan](https://github.com/hienphan0111)  [Repo](https://github.com/roniy68/to-do-list-testing)
 
