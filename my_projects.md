@@ -10,6 +10,7 @@
 
 - 🔨 [JunctionApp](https://github.com/hackjunction/JunctionApp)
 - 🔨 [Capstone Rails Upgradtion](https://github.com/roniy68/capstone-rails/projects/1)
+- 🔨 [Portfolio - Now Upgrading to NextJS](https://github.com/roniy68/portfolio)
 
 ## Previous Projects 🔽
 
