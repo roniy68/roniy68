@@ -22,7 +22,7 @@
 
 ### Solo: (Experiment 😄) 
 - ✅ [Portfolio - simple HTML,CSS,JS](https://github.com/roniy68/portfolio)
-- ✅ [Dockerized Ruby on Rails 7](https://github.com/roniy68/recipe-app-docked)
+- ✅ [Dockerized Ruby on Rails 7](https://github.com/roniy68/blog-app-docked)
 - ✅ [Ruby - Experiments #23](https://github.com/roniy68/catalog-of-my-things)
 - ✅ [Clones #007 : Make My Trip React, Redux, Stripe, TailwindCSS etc](https://github.com/roniy68/make-my-trip-react-clone)
 - ✅ [Web Matics - Plain React, Redux Example ](https://github.com/roniy68/web-matrics)
